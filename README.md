@@ -1,5 +1,9 @@
-a4tech-bloody-linux-driver
-====================
+# a4tech-bloody-linux-driver
+
+**forked from [maxmati's repo](https://github.com/maxmati/a4tech-bloody-linux-driver)**
+
+I want to turn my mouse off, so I added support for the bloody A60.
+
 
 Linux driver for a4tech bloody mouse series.
 This tool allows setting backlight level of A4TECH wired mouse (USB connected), e.g. A4TECH V7M.
